@@ -15,14 +15,17 @@ Currently working on modern web applications while expanding toward full-stack d
 
 - **Al-Azhar Pharmacy Portal** – A non-profit educational website built to help pharmacy students access course-related materials and faculty information more easily. Built as a real-world academic support project and launched publicly in 2022.
 
-**Version 1 – Production Release (2022)**  
-Static multi-page implementation used by students within the faculty.  
-🔗 Repository: https://github.com/ahmed-skaik/Pharmacy  
+**Version 2 – Current Production (Modern Architecture)**  
+Fully re-engineered platform built with React, TypeScript, Vite, SASS, and Bootstrap.
+Implements a component-driven architecture with separated data layers, improved scalability, and maintainability at a professional level.
+🔗 Repository: https://github.com/ahmed-skaik/pharmacy-v2
 🌐 Live Website: https://alazharpharmacy.com
 
-**Version 2 – Modern React Rebuild (In Development)**  
-Currently re-architecting the platform using **React, TypeScript, and Vite** with a component-driven architecture.  
-🔗 Repository: https://github.com/ahmed-skaik/pharmacy-v2
+**Version 1 – Legacy Static Implementation (2022)**  
+Original multi-page HTML/CSS/JS version consisting of 60+ pages.
+Served as the initial production release and foundation of the platform.
+🔗 Repository: https://github.com/ahmed-skaik/Pharmacy
+🌐 Live Demo: https://ahmed-skaik.github.io/Pharmacy
 
 ## 🌱 Currently Focusing On
 
